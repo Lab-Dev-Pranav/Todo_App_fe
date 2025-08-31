@@ -1,4 +1,4 @@
-#TODO-APP
+#TODO-APP [FrontEnd]
 
 A simple TODO app using JavaScript (no DOM manipulation).
 
