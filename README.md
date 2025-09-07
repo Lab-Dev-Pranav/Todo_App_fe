@@ -1,5 +1,10 @@
 #TODO-APP [FrontEnd]
+
+GitHub Live URL
 https://lab-dev-pranav.github.io/Todo_App_fe/
+
+Render Live URL
+https://todoapp-dev-p.onrender.com/
 
 A simple TODO app using JavaScript (no DOM manipulation).
 
